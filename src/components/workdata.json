@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "/images/puppy_thumb.png",
+        "title": "PUPPY TEST",
+        "desc_k": "내가 강아지가 된다면 어떤 강아지가 어울릴까요? 재미로 테스트해보는 사이트입니다.",
+        "desc_e": "If I become a puppy, which puppy would I look good with? It's a website that tests for fun.",
+        "pic_pc": "/images/puppy_pc.png",
+        "pic_pages": "/images/puppy_pages2.png",
+        "pic_respond": "/images/puppy_respond.png",
+        "function_e": "Simple psychological test, Responsive web, 2 Languages.",
+        "function_k": "간단한 심리테스트, 반응형 웹, 두가지 언어.",
+        "git": "https://github.com/tennk33/puppy",
+        "domain": "https://tennk33.github.io/puppy/",
+        "skill": "React, SASS"
+    },
+    {
+        "id": 2,
+        "thumbnail": "/images/official_thumb.png",
+        "title": "KIM TAEEUN OFFICIAL",
+        "desc_k": "저에 대한 정보와 작업물들을 모아놓은 사이트입니다.",
+        "desc_e": "This website is saving information about me and portfolios made myself.",
+        "pic_pc": "/images/official_pc.png",
+        "pic_pages": "/images/official_pages.png",
+        "pic_respond": "/images/official_respond.png",
+        "function_e": "Day-Night mode, Self-introduction, 2 Languages, Responsive web.",
+        "function_k": "낮-밤 모드, 자기소개, 두가지 언어, 반응형 웹.",
+        "git": "https://github.com/tennk33/official",
+        "domain": "https://tennk33.github.io/official/",
+        "skill": "React, SASS"
+    },
+    {
+        "id": 3,
+        "thumbnail": "/images/helloseoul_thumb.png",
+        "title": "HELLO SEOUL",
+        "desc_k": "서울의 다양한 문화시설, 축제 및 행사, 맛집의 정보 등을 지도와 함께 보여주며 서울의 현재 날씨 또한 제공하는 사이트입니다.",
+        "desc_e": "It is a website that shows information on various cultural facilities, festivals and events, and restaurants in Seoul along with a map and also provides the current weather in Seoul.",
+        "pic_pc": "/images/helloseoul_pc.png",
+        "pic_pages": "/images/helloseoul_pages2.png",
+        "pic_respond": "/images/helloseoul_respond.png",
+        "function_e": "Information about facilities in Seoul, Weather, Map, Responsive web.",
+        "function_k": "서울의 다양한 시설들에 대한 정보, 날씨, 지도, 반응형 웹.",
+        "git": "https://github.com/tennk33/hello_seoul",
+        "domain": "http://tennk33.dothome.co.kr/helloseoul",
+        "skill": "HTML5, CSS3, Javascript, jQuery, Ajax"
+    },
+    {
+        "id": 4,
+        "thumbnail": "/images/sweetcream_thumb.png",
+        "title": "SWEET CREAM",
+        "desc_k": "베스킨 라빈스 홈페이지를 참고하여 만든 아이스크림 브랜드 사이트입니다.",
+        "desc_e": "It is an ice cream brand site created by referring to the Baskin-Robbins website.",
+        "pic_pc": "/images/sweetcream_pc.png",
+        "pic_pages": "/images/sweetcream_pages2.png",
+        "pic_respond": "/images/sweetcream_respond.png",
+        "function_e": "Map search, Responsive web.",
+        "function_k": "지도 찾기, 반응형 웹.",
+        "git": "https://github.com/tennk33/sweet_cream",
+        "domain": "https://tennk33.github.io/sweet_cream/",
+        "skill": "HTML5, CSS3, Javascript, jQuery, Ajax"
+    }
+]

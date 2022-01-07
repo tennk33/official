@@ -1,13 +1,12 @@
-import './App.css';
-import dog from './images/dog3.png'
+import React from 'react';
+import Home from './components/Home';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>official</h1>
-      <img src={dog} alt="" />
+    <div>
+      <Home />
     </div>
   );
-}
+};
 
 export default App;
